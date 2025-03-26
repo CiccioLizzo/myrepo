@@ -1,1 +1,1 @@
-# myrepo
+Questa repo contiene i codici HTML e CSS che puntano a replicare la home page del sito www.apple.it, di seguito verranno anche allegate le immagini necessarie per la visualizzazione della home page nella sua completezza. Per una corretta visualizzazione è necessario inserire tutti i file soprattutto le immagini allegate all'interno di una stessa cartella. 
